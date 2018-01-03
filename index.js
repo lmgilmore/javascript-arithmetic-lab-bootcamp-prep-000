@@ -5,7 +5,12 @@ function multiply(a, b){return a*b}
 function divide(a, b){return a/b}
 function inc(n){return a+1}
 function dec(n){return a-1}
-
+function makeInt(n)
+{
+  var value=parseInt(n)
+  
+  if (value 
+  else 
 
 
 {
