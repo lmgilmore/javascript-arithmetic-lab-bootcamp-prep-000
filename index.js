@@ -5,25 +5,9 @@ function multiply(a, b){return a*b}
 function divide(a, b){return a/b}
 function inc(n){return a+1}
 function dec(n){return a-1}
-function makeInt(n)
-{
-  var value=parseInt(n)
-  
-  if (value=isNaN){return This is not a number.}
-  else 
+function makeInt(n){return parseInt(n, 10)}
 
 
-{
-  
-  
-  
-      if ((n)='n' {return parseInt(n)})
-   else {return "NaN"}
-}
-   
-{return parseInt(n, 10)}
 function preserveDecimal(n){return parseFloat(n)}
-
-
  var parsed = parseInt(x, base);
   if (isNaN(parsed)) { return 0 }
