@@ -13,7 +13,7 @@ var num=function makeInt(n)
   
   
   
-      if (n='n' {return parseInt(n)})
+      if ((n)='n' {return parseInt(n)})
    else {return "NaN"}
 }
    
