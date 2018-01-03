@@ -9,7 +9,7 @@ function makeInt(n)
 {
   var value=parseInt(n)
   
-  if (value 
+  if (value=isNaN
   else 
 
 
