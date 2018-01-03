@@ -6,8 +6,9 @@ function divide(a, b){return a/b}
 function inc(n){return a+1}
 function dec(n){return a-1}
 function makeInt(n){return parseInt(n, 10)}
-
+var parsed = parseInt(x, base);
+  if (isNaN(parsed)) { return 0 }
 
 function preserveDecimal(n){return parseFloat(n)}
- var parsed = parseInt(x, base);
+ var parsed = parseFloat(n);
   if (isNaN(parsed)) { return 0 }
